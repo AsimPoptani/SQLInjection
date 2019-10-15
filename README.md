@@ -12,3 +12,7 @@ The situation is that company, Daniellas Industrial Bakery has hired a junior de
 ## Where the data is coming from
 
 https://dev.mysql.com/doc/employee/en/employees-preface.html
+
+
+## How to set up MYSQL
+`mysql < employees.sql` - Install employees 
